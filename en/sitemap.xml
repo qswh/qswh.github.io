@@ -2,259 +2,259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qswh.github.io/projects/photography/</loc>
+    <loc>/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/projects/photography/"
+                href="/es/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/projects/photography/"
+                href="/de/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/projects/photography/"
+                href="/projects/photography/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/projects/design/</loc>
+    <loc>/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/projects/design/"
+                href="/es/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/projects/design/"
+                href="/de/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/projects/design/"
+                href="/projects/design/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/projects/writing/</loc>
+    <loc>/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/projects/writing/"
+                href="/es/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/projects/writing/"
+                href="/de/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/projects/writing/"
+                href="/projects/writing/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/projects/"
+                href="/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/projects/"
+                href="/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/projects/"
+                href="/projects/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/blog/"
+                href="/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/blog/"
+                href="/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/blog/"
+                href="/blog/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/tags/features/</loc>
+    <loc>/tags/features/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/"
+                href="/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/series/quickstart/</loc>
+    <loc>/series/quickstart/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/series/"
+                href="/es/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/series/"
+                href="/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/blog/multi-author/</loc>
+    <loc>/blog/multi-author/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-02-21T16:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/series/example-posts/</loc>
+    <loc>/series/example-posts/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/tags/images/</loc>
-    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://qswh.github.io/es/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://qswh.github.io/de/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qswh.github.io/tags/images/"
-                />
-  </url><url>
-    <loc>https://qswh.github.io/blog/coffee-ipsum/</loc>
+    <loc>/tags/images/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/blog/coffee-ipsum/"
+                href="/es/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/blog/coffee-ipsum/"
+                href="/de/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/blog/coffee-ipsum/"
+                href="/tags/images/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/blog/configuration/</loc>
+    <loc>/blog/coffee-ipsum/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/blog/coffee-ipsum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/coffee-ipsum/"
+                />
+  </url><url>
+    <loc>/blog/configuration/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/tags/code/</loc>
+    <loc>/tags/code/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/tags/code/"
+                href="/es/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/tags/code/"
+                href="/de/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/tags/code/"
+                href="/tags/code/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/blog/long-form-post/</loc>
+    <loc>/blog/long-form-post/</loc>
     <lastmod>2019-05-30T20:18:53-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
   </url><url>
-    <loc>https://qswh.github.io/blog/startup-ipsum/</loc>
+    <loc>/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/blog/startup-ipsum/"
+                href="/es/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/blog/startup-ipsum/"
+                href="/de/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/blog/startup-ipsum/"
+                href="/blog/startup-ipsum/"
                 />
   </url><url>
-    <loc>https://qswh.github.io/blog/no-date/</loc>
+    <loc>/blog/no-date/</loc>
   </url><url>
-    <loc>https://qswh.github.io/tags/words/</loc>
+    <loc>/tags/words/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://qswh.github.io/es/tags/words/"
+                href="/es/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://qswh.github.io/de/tags/words/"
+                href="/de/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qswh.github.io/tags/words/"
+                href="/tags/words/"
                 />
   </url>
 </urlset>
